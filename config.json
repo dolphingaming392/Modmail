@@ -1,0 +1,18 @@
+{
+    "prefix": "!",
+    "status": "DM me for help!",
+    "guild_id": null,
+    "modmail_category": null,
+    "log_channel": null,
+    "staff_roles": [],
+    "blocked_users": [],
+    "thread_close_time": 12,
+    "color": {
+        "default": 5865970,
+        "user": 3066993,
+        "staff": 3447003,
+        "error": 15158332,
+        "success": 3066993,
+        "warning": 15844367
+    }
+}
